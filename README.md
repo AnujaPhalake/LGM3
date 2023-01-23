@@ -1,2 +1,2 @@
 # LGM2
-Task 2: ATM Interface
+Task 2: Tic Tac Toe
